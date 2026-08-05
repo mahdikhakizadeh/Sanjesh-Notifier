@@ -18,7 +18,11 @@ PAGES = [
     {
         "name": "دکتری تخصصی",
         "url": "https://www.sanjesh.org/fa-IR/sanjesh/4929/page/%D8%AF%DA%A9%D8%AA%D8%B1%D8%A7%DB%8C-%D8%AA%D8%AE%D8%B5%D8%B5%DB%8C"
-    }
+    },
+    {
+        "name": "نهایی",
+        "url": "https://azmoon.medu.gov.ir/fa/node/512709"
+    },
 ]
 
 
