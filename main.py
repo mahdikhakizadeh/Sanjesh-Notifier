@@ -44,7 +44,7 @@ def get_page_text(url):
     response = requests.get(
         url,
         headers=headers,
-        timeout=30
+        timeout=90
     )
     response.encoding = "utf-8"
 
