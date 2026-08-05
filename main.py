@@ -34,10 +34,9 @@ def send_message(message):
 
 
 def get_page_text(url):
-     headers = {
+    headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36"
     }
-
     response = requests.get(
         url,
         headers=headers,
